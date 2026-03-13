@@ -1,16 +1,44 @@
-## Hi there 👋
+# Carlo Capobianchi
 
-<!--
-**bynflow/bynflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer based in Berlin, focused on infrastructure automation, containerization and CI/CD pipelines.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kubernetes
+- Docker
+- Terraform
+- Ansible
+- GitHub Actions
+- Linux
+- Bash
+- Python
+
+## DevOps Portfolio
+
+### End-to-End DevOps Pipeline
+CI/CD pipeline built with GitHub Actions, Docker and Kubernetes.
+
+Repository:  
+https://github.com/bynflow/end-to-end-devops-pipeline
+
+### Flask Infrastructure Deployment
+Infrastructure automation using Terraform and Ansible with containerized deployment.
+
+Repository:  
+https://github.com/bynflow/flask-infra-deploy
+
+## Other Projects
+
+### Instant Remote Storage
+Bash-based automation tool for remote storage management.
+
+### Smart Backup
+Automation script for Linux backup management.
+
+## Links
+
+LinkedIn  
+https://www.linkedin.com/in/carlo-capobianchi-42448321b/
+
+GitHub  
+https://github.com/bynflow
