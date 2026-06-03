@@ -12,6 +12,11 @@ DevOps Engineer based in Berlin, focused on infrastructure automation, container
 - Linux
 - Bash
 - Python
+- Tekton
+- GitOps
+- Prometheus
+- Grafana
+- Git
 
 ## DevOps Portfolio
 
