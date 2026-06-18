@@ -1,6 +1,6 @@
 # Carlo Capobianchi
 
-Junior DevOps Engineer focused on Kubernetes, GitOps, CI/CD, Infrastructure as Code and Platform Engineering.
+DevOps & Cloud Engineer focused on Kubernetes, GitOps, CI/CD, Infrastructure as Code and Linux-based cloud-native platforms.
 
 ## Technologies
 
