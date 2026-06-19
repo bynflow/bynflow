@@ -4,20 +4,31 @@ DevOps & Cloud Engineer focused on Kubernetes, GitOps, CI/CD, Infrastructure as 
 
 ## Technologies
 
-- Kubernetes
-- Docker
-- Terraform
-- Ansible
-- GitHub Actions
-- Tekton
-- ArgoCD
-- GitOps
-- Prometheus
-- Grafana
-- Git
-- Linux
-- Bash
-- Python
+* Kubernetes
+* GitOps
+* CI/CD
+* Infrastructure as Code
+* Terraform
+* Ansible
+* Docker
+* GitHub Actions
+* GHCR
+* Tekton
+* Argo CD
+* Kustomize
+* K3s
+* Linux
+* Bash
+* Python
+* Prometheus
+* Grafana
+* Observability
+* RBAC
+* TLS
+* Network Policies
+* Trivy
+* systemd
+* Git
 
 ## Selected DevOps Projects
 
